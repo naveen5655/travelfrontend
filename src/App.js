@@ -1,8 +1,8 @@
 import './App.css';
-import { Navbar } from './components/Navbar/Navbar';
+import {Home} from './pages'
 function App() {
   return (
-    <Navbar></Navbar>
+    <Home/>
   );
 }
 

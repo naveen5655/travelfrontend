@@ -1,7 +1,7 @@
-import {Navbar} from '../../components'
+import { Navbar } from '../../components';
 
 export const Home = () => {
-    return (
-
-    )
-}
+   return (
+    <Navbar/>
+   )
+};
